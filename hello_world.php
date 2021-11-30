@@ -7,3 +7,6 @@ if(isset($string)){
 }else{
     echo "Fudeu";
 }
+
+
+echo "Teste";
